@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Kaio Erick 👋
+### Olá! Eu me chamo Kaio Erick, Sou estudante da escola Adolfo Ferreira de Sousa e curso informática, comecei na programação com 15 anos de idade, nas próprias aulas de Html e Css do meu curso, estou estudando linguagens back-end juntamente com banco de dados, Atualmente com 16 anos de idade estou aprimorando meus conhecimentos em NodeJs,Typescript e Banco De Dados.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayooerick/)
 
 ![eryckfrzz GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckfrzz&show_icons=true&theme=radical)
