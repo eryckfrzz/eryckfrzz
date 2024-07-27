@@ -53,6 +53,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
 </div>
 
 ###
