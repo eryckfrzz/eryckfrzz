@@ -9,6 +9,7 @@
 <h3 align="left">Contacts 📱</h3>
 
 ###
+###
 
 <div align="left">
   <a href="https://www.instagram.com/kayooerick/" target="_blank">
@@ -18,7 +19,7 @@
 
 ###
 
-<h3 align="center">Skills 🛠️</h3>
+<h3 align="left">Skills 🛠️</h3>
 
 ###
 
