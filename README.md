@@ -65,8 +65,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eryckfrzz/count.svg?"  />
-</div>
 
 ###
