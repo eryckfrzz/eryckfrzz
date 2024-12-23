@@ -34,11 +34,11 @@
 <div align="left">
   <img alt= "Kaio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />         
   <img alt= "Kaio-TS"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt= "Kaio-NODE"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
+  <img alt= "Kaio-NODE"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> 
   <img  alt= "Kaio-FLUTTER"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />  
-  <img alt= "Kaio-DART"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />       
+  <img alt= "Kaio-DART"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />       
 </div>
-
+          
 ###
 
 <h4 align="left">Databases</h4>
