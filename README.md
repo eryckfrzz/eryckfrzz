@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Kaio Erick e sou um desenvolvedor de software jr, com 17 anos, curso informática em uma escola técnica e estou ápto para contribuir em projetos e ser ajudado, gosto de desafios e cada vez mais me interesso no mundo tecnológico. Fique a vontade para entrar em contato!</p>
+<p align="left">Olá, me chamo Kaio Erick e sou um desenvolvedor mobile, com 17 anos, curso informática em uma escola técnica e estou ápto para contribuir em projetos e ser ajudado, gosto de desafios e cada vez mais me interesso no mundo tecnológico. Fique a vontade para entrar em contato!</p>
 
 ###
 
